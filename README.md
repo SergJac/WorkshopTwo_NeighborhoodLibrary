@@ -34,5 +34,14 @@
                             // If the user chooses the first option to check in a book they are prompt for the ID of the book they want to check in
                             // Once they have entered the ID of the book they wish to check in they are given a list of recently checked in books and a message that says their checked out book has been successfully checked in
 
+
+### Favorite code sample:
+
+- The following is a screenshot of my favorite part of the code:
+  - This sample is my favorite because it was the hardest part to figure out but was the most satisfying once I did
+
+![WorkshopTwo_NeighborhoodLibrary_Screenshot.PNG](..%2F..%2F..%2FDesktop%2FYearUp%2FPluralsight%2FWorkshopTwo_NeighborhoodLibrary_Screenshot.PNG)
+
+
    
 
